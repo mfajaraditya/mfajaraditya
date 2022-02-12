@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Perkenalkan nama say **M. Fajar Aditya**.
+
+Saya seorang **mahasiswa** di [Universitas Lambung Mangkurat](https://ulm.ac.id/id/).
+
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/m-fajar-aditya-b44578231/) ku ya.
 <!--
 **mfajaraditya/mfajaraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
