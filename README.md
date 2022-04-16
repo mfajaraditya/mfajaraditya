@@ -1,4 +1,5 @@
 <img src="https://github.com/mfajaraditya/mfajaraditya/blob/main/coding_function.gif"><br>
+![](https://komarev.com/ghpvc/?username=mfajaraditya&color=blueviolet)
 ## M. Fajar Aditya.
 
 Saya seorang **mahasiswa** di [Universitas Lambung Mangkurat](https://ulm.ac.id/id/). <br>
