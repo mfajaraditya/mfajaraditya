@@ -1,14 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-Perkenalkan nama saya **M. Fajar Aditya**.
+<img src="https://github.com/mfajaraditya/mfajaraditya/blob/main/coding_function.gif"><br>
+## M. Fajar Aditya.
 
 Saya seorang **mahasiswa** di [Universitas Lambung Mangkurat](https://ulm.ac.id/id/). <br>
 Saya sedang menjalani program **MSIB Batch 2** pada mitra [Dicoding Indonesia](https://www.dicoding.com)
+## Mari saling terhubung pada platform: <br>
 
-Mari saling terhubung pada platform: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-mfajaraditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-fajar-aditya-b44578231/)](https://www.linkedin.com/in/m-fajar-aditya-b44578231/)
 [![Instagram Badge](https://img.shields.io/badge/-mfajaraditya01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mfajaraditya01/)](https://www.instagram.com/mfajaraditya01/)
 [![Gmail Badge](https://img.shields.io/badge/-mfajaraditya13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfajaraditya13@gmail.com)](mailto:mfajaraditya13@gmail.com)
+[![Twitter Badge](https://img.shields.io/twitter/url?label=HajiFajar43&style=social&url=https%3A%2F%2Ftwitter.com%2FHajiFajar43)](https://twitter.com/HajiFajar43)
 
 <br>
 <p align="left">
@@ -18,7 +18,7 @@ Mari saling terhubung pada platform: <br>
 </a>
 </p>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **mfajaraditya/mfajaraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
