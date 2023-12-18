@@ -1,6 +1,6 @@
 <img src="https://github.com/mfajaraditya/mfajaraditya/blob/main/coding_function.gif"><br>
 ![](https://komarev.com/ghpvc/?username=mfajaraditya&color=blueviolet)
-## M. Fajar Aditya.
+## M. Fajar Aditya, S. Kom.
 
 Saya seorang **mahasiswa** di [Universitas Lambung Mangkurat](https://ulm.ac.id/id/). <br>
 Saya sedang menjalani program **MSIB Batch 2** pada mitra [Dicoding Indonesia](https://www.dicoding.com)
